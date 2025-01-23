@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gursharen Kaur Suri</h1>
-<h3 align="center">A passionate Web developer.</h3>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gursharenkaur" alt="gursharenkaur" /></a> </p>
+<h3 align="center">A passionate Web Developer.</h3>
 
 - 🌱 I’m currently learning **ML/DL and Backend.**
 
@@ -22,4 +20,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gursharenkaur&show_icons=true&locale=en" alt="gursharenkaur" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gursharenkaur&" alt="gursharenkaur" /></p>
-
