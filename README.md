@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Web Developer.</h3>
 
 - 🌱 I’m currently learning **ML/DL and Backend.**
-
+- Frontend Developer
+- Product Management
 - 📫 How to reach me **kaurgursharen@gmail.com**
 
 <h2 align="left">Connect with me:</h2>
