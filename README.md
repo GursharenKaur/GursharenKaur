@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gursharen Kaur Suri</h1>
 <h3 align="center">A passionate Web Developer.</h3>
 
-- 🌱 I’m currently learning **ML/DL and Backend.**
-- Frontend Developer
+- 🌱 I’m currently learning **ML/DL.**
+- Full Stack Developer
 - Product Management
 - 📫 How to reach me **kaurgursharen@gmail.com**
 
