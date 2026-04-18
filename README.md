@@ -6,7 +6,6 @@
 📫 Reach me at <b>kaurgursharen@gmail.com</b>
 </p>
 
----
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -15,7 +14,6 @@
 </a>
 </p>
 
----
 
 <h2 align="left">Languages and Tools:</h2>
 
