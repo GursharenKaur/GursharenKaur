@@ -17,7 +17,7 @@
 
   <!-- Portfolio -->
   <a href="https://www.gursharenkaursuri.me/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" height="30" width="30"/>
+    <img src="./assets/gk-logo.png" height="30" width="30"/>
   </a>
 </p>
 
