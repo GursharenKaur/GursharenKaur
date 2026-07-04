@@ -8,10 +8,17 @@
 
 
 <h2 align="left">Connect with me:</h2>
+
 <p align="left">
-<a href="https://www.linkedin.com/in/gursharen-kaur-suri/" target="_blank">
-<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
-</a>
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/gursharen-kaur-suri/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
+  </a>
+
+  <!-- Portfolio -->
+  <a href="https://www.gursharenkaursuri.me/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" height="30" width="30"/>
+  </a>
 </p>
 
 
