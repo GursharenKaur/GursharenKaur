@@ -53,14 +53,9 @@
 
 <h2 align="left">📊 GitHub Stats</h2>
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gursharenkaur&show_icons=true&locale=en&layout=compact&theme=dark" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=gursharenkaur&show_icons=true&locale=en&theme=dark" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gursharenkaur&theme=dark" />
+<p align="left">
+  <img
+    src="https://streak-stats.demolab.com?user=GursharenKaur&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Streak"
+  />
 </p>
